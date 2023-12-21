@@ -64,9 +64,6 @@ Prioritize your tasks with ease. Mark tasks as high, medium, or low priority to 
 ## Status
 Project is: _in progress_
 
-## Inspiration
-Add here credits. Project inspired by..., based on...
-
 ## Contact
-Nkechi Nnadi - nkaduba@gmail.com - @Kaych3e(github)
-Divine Lewis - divinitysoft0@gmail.com - Divinelewis(github)
+* Nkechi Nnadi - nkaduba@gmail.com - @Kaych3e(github)
+* Divine Lewis - divinitysoft0@gmail.com - Divinelewis(github)
