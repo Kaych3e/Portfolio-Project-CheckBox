@@ -5,7 +5,7 @@
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* [Dependencies] (#dependencies)
+* [Dependencies](#dependencies)
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
