@@ -5,6 +5,7 @@
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
+* [Dependencies] (#dependencies)
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
@@ -16,24 +17,36 @@ This project was built using React.js and JavaScript as a way to not only help o
 CheckBox provides a seamless and intuitive user experience for managing your to-do lists with efficiency and style.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./assets/splash.png)
 
 ## Technologies
-* React.js
-* JavaScript
-* HTML, CSS
-* Node Package Manager(npm)
-* Expo
+* React Native
+* Expo SDK
+* Javascript
+
+## Dependencies
+* async-storage
+* react-navigation
+* react-native-onboarding-swiper
+etc
 
 ## Setup
 * Clone the Repository:
-Clone the CheckBox repository from GitHub to get the latest version of the app.
+```bash
+git clone https://github.com/Kaych3e/Portfolio-Project-CheckBox
+```
 
 * Install Dependencies:
 Run npm install to install the required dependencies and libraries.
+```bash
+npm install
+```
 
 * Start the App:
 Use the command npm start to launch ReactDo locally on your machine.
+```bash
+npm start
+```
 
 * Explore and Contribute:
 Dive into the codebase, explore the functionalities, and feel free to contribute by submitting issues or pull requests.
@@ -46,12 +59,10 @@ Show examples of usage:
 List of features ready and TODOs for future development
 * Interactive User Interface:
 Enjoy a modern and responsive user interface that adapts to different devices, making task management a breeze.
-* Real-Time Updates:
-Experience real-time updates and synchronization of tasks across devices, ensuring you stay on top of your to-do list wherever you go.
 * Effortless Task Management:
-Add, edit, and delete tasks with just a few clicks. Drag and drop functionality makes organizing tasks a simple and intuitive process.
+Add, edit, and delete tasks with just a few clicks.
 
-To-do list:
+## The future of this To-do list:
 * Customizable Themes:
 Personalize your workspace with a variety of themes and color schemes to suit your preferences and create a visually pleasing environment.
 * User Authentication:
