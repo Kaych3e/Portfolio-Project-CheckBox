@@ -34,7 +34,7 @@ export default function OnboardingScreen() {
             containerStyles={{paddingHorizontal: 15}}
             pages={[
                 {
-                    backgroundColor: '#a7f3d0',
+                    backgroundColor: '#E0FFE2',
                     image: (
                         <View style={styles.lottie}>
                            <Image style={{ width: 280, height: 280 }} source={require('../assets/images/rest.png')} />
@@ -54,7 +54,7 @@ export default function OnboardingScreen() {
                     subtitle: 'With CheckBox your tasks are perfectly arranged for a stress-free day',
                 },
                 {
-                    backgroundColor: '#fef8e0',
+                    backgroundColor: '#F5F2FF',
                     image: (
                         <View style={styles.lottie}>
                             <Image style={{ width: 280, height: 280 }} source={require('../assets/images/task.png')} />

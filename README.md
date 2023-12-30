@@ -17,7 +17,7 @@ This project was built using React.js and JavaScript as a way to not only help o
 CheckBox provides a seamless and intuitive user experience for managing your to-do lists with efficiency and style.
 
 ## Screenshots
-![Example screenshot](./assets/splash.png)
+![Example screenshot](./assets/Checkboxmockup.jpg)
 
 ## Technologies
 * React Native
@@ -77,4 +77,4 @@ Project is: _in progress_
 
 ## Contact
 * Nkechi Nnadi - nkaduba@gmail.com - @Kaych3e(github)
-* Divine Lewis - divinitysoft0@gmail.com - Divinelewis(github)
+* Divine Lewis - divinitysoft0@gmail.com - @Divinelewis(github)

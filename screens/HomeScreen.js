@@ -32,7 +32,8 @@ export default function HomeScreen() {
   return (
     <SafeAreaView style={styles.container}>
       <View style={styles.container}>
-        <Text style={styles.heading}>CHECKBOX - TODO APP</Text>
+        <Text style={styles.heading}>WELCOME TO CHECKBOX</Text>
+        <Text style={styles.subtext}>KEEP TRACK OF YOUR DAY!</Text>
       <ScrollView style={styles.scrollView}>
         {
         tasks.map((task, index) => {
@@ -67,17 +68,25 @@ const styles = StyleSheet.create({
   // },
   container: {
     flex: 1,
-    backgroundColor: '#E6E6FA',
+    backgroundColor: '#E8E5FF',
   },
   heading: {
     color: '#fFF',
-    fontSize: 20,
-    fontWeight: '600',
+    fontSize: 40,
+    fontWeight: '700',
     // marginTop: 30,
-    paddingVertical: 20,
-    marginBottom: 10,
+    paddingTop: 60,
+    paddingBottom: 15,
     textAlign: 'center',
-    backgroundColor: '#3E3364',
+    backgroundColor: '#000238',
+  },
+  subtext: {
+    color: '#fFF',
+    fontSize: 16,
+    fontWeight: '500',
+    textAlign: 'center',
+    backgroundColor: '#000124',
+    paddingVertical: 10,
   },
   scrollView: {
     marginBottom: 70,
